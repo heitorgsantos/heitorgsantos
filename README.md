@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Heitor Santos 👋
 
-- 😊Hoje estou aberto a trabalho como desenvolvedor Junior Front-End
+- 😊 Hoje estou aberto a trabalho como desenvolvedor Junior Front-End
 - 📖 Sou estudante de desenvolvimento de software na Trybe
 - 📧 Meu e-mail para contato: heitorg33@gmail.com
 - 😄 Pronouns: ele/dele
