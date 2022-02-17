@@ -3,6 +3,7 @@
 - 😊 Hoje estou aberto a trabalho como desenvolvedor Junior Front-End
 - 📖 Sou estudante de desenvolvimento de software na Trybe
 - 📧 Meu e-mail para contato: heitorg33@gmail.com
+- 📲 Telefone para contato: (51) 9 9646-8592
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/heitorgsantos/">
