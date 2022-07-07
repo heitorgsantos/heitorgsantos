@@ -5,7 +5,6 @@
 - 📧 Meu e-mail para contato: heitorg33@gmail.com
 - 📲 Telefone para contato: (51) 9 9646-8592
 - 😄 Pronouns: ele/dele
-- 🚨🚨🚨 Repositórios sendo organizados e padrozinados, talvez algum link que você quer está quebrado/Atualização acaba hoje as 20:00!
 <div>
   <a href="https://github.com/heitorgsantos/">
   <img height"150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=heitorgsantos&show_icons=true&theme=dark"/>
