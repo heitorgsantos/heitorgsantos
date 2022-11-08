@@ -6,7 +6,7 @@
 - 📲 Telefone para contato: (51) 9 9646-8592
 - 😄 Pronouns: ele/dele
 <div>
-  <a href="https://github.com/heitorgsantos/">
+  <a href="https://github.com/heitorgsantos/" width="100%">
   <img height"150em" width="40%" src="https://github-readme-stats.vercel.app/api?username=heitorgsantos&show_icons=true&theme=dark"/>
   <img height="200em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgsantos&layout=compact&langs_count=32&theme=dark"/>
 </div>
