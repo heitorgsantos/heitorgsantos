@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Heitor Santos 👋
 
-- 😊 Hoje estou aberto a trabalho como desenvolvedor Junior Front-End
+- 😊 Desenvolvedor InnLeaders
 - 📖 Desenvolvedor de software web
 - 📧 Meu e-mail para contato: heitorg33@gmail.com
 - 📲 Telefone para contato: (51) 9 9646-8592
