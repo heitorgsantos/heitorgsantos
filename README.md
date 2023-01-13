@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/heitorgsantos/" width="100%">
   <img height"200em" width="40%" src="https://github-readme-stats.vercel.app/api?username=heitorgsantos&show_icons=true&theme=dark"/>
-  <img height="200em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgsantos&layout=compact&langs_count=32&theme=dark"/>
+  <img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgsantos&layout=compact&langs_count=32&theme=dark"/>
 </div>
 </div>
   <div align="center">
